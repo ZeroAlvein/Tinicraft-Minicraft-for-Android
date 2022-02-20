@@ -19,12 +19,12 @@ Tinicraft ZB 1.0.apk
 
 Touch controls
 - Left side of screen is your virtual joystick. You need to swipe and hold to move (tap and hold won't work)
-- Right side of screen is your action button. Tap screen for action/confirm, hold it to open inventory/crafting window
+- Right side of screen is your use button. Tap screen for action/confirm, hold it to open inventory/crafting window
 - In inventory/crafting window X on lower right act as close window
 
 Gamepad controls (connect your gamepad then enable it in settings)
-- You will need to configure gamepad controls
-- To exit game you first need to open inventory/crafting window, then press right and move down to X icon and hit action/confirm button
+- You will need to configure gamepad controls after enablign them
+- To exit game you first need to open inventory/crafting window, then press right and move down to X icon and hit use button
 
 Works on Nox Player so most likely BlueStacks and other Android emulators will work just fine
 
