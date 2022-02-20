@@ -26,7 +26,7 @@ Gamepad controls (connect your gamepad then enable it in settings)
 - You will need to configure gamepad controls
 - To exit game you first need to open inventory/crafting window, then press right and move down to X icon and hit action/confirm button
 
-Works on Nox Player so most likely BlueStacks and other Android emulators will work just fine 
+Works on Nox Player so most likely BlueStacks and other Android emulators will work just fine
 
 Below comparison of version (Blue or Red are either blue or red you see mix of two version on last picture)
 
